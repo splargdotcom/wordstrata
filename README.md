@@ -1,9 +1,6 @@
 # WordStrata
 
 <!-- splarg-storefront:start -->
-<p align="center">
-  <a href="https://splarg.itch.io/wordstrata"><img src="logo.png" alt="wordstrata" width="720"></a>
-</p>
 
 <p align="center">
   <strong><a href="https://splarg.itch.io/wordstrata">▶ Play in browser on itch.io</a></strong>
@@ -30,7 +27,6 @@ A browser word game about **excavation, gravity and increasingly valuable layers
 
 Build and submit words to clear material, let the remaining tiles fall, and dig through progressively deeper strata. The surface is only the beginning: reach **Depth 50** to discover the Progenitor, then continue into the endless layers beyond.
 
-**Play on itch.io:** https://splarg.itch.io/wordstrata
 
 ## Core ideas
 
