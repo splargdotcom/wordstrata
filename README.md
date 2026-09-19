@@ -13,6 +13,18 @@
 </p>
 <!-- splarg-storefront:end -->
 
+<!-- splarg-itch-media:start -->
+<p align="center">
+  <a href="https://splarg.itch.io/wordstrata"><img src="docs/itch/cover.png" alt="WordStrata cover art" width="640"></a>
+</p>
+<p align="center">
+  <img src="docs/itch/screenshot-1.png" alt="WordStrata screenshot" width="31%">
+  <img src="docs/itch/screenshot-2.png" alt="WordStrata screenshot" width="31%">
+  <img src="docs/itch/screenshot-3.png" alt="WordStrata screenshot" width="31%">
+</p>
+<!-- splarg-itch-media:end -->
+
+
 
 A browser word game about **excavation, gravity and increasingly valuable layers of language**.
 
